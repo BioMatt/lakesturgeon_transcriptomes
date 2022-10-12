@@ -1,0 +1,18 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: actinopterygii_odb10 (Creation date: 2020-08-05, number of genomes: 3640, number of BUSCOs: 26)
+# Summarized benchmarking in BUSCO notation for file /home/biomatt/scratch/overall_transcriptome/trinity_overall.Trinity.fasta
+# BUSCO was run in mode: transcriptome
+
+	***** Results: *****
+
+	C:85.6%[S:16.0%,D:69.6%],F:5.1%,M:9.3%,n:3640	   
+	3116	Complete BUSCOs (C)			   
+	582	Complete and single-copy BUSCOs (S)	   
+	2534	Complete and duplicated BUSCOs (D)	   
+	185	Fragmented BUSCOs (F)			   
+	339	Missing BUSCOs (M)			   
+	3640	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.2
+	metaeuk: GITDIR-NOTFOUND-MPI
